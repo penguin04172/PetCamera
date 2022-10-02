@@ -1,0 +1,25 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"week16_sccb" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\Users\USER\Desktop\week16_sccb\default\MTU\R_PG_Timer_MTU_U0_C2.h" 
+"C:\Users\USER\Desktop\week16_sccb\default\RIIC\R_PG_I2C_C0.h" 
+"C:\Users\USER\Desktop\week16_sccb\week16_sccb\resetprg.c" 
+"C:\Users\USER\Desktop\week16_sccb\week16_sccb\setup.c" 
+"C:\Users\USER\Desktop\week16_sccb\week16_sccb\setup.h" 
+"C:\Users\USER\Desktop\week16_sccb\week16_sccb\week16_sccb.c" 
+[WORKSPACE_FILE_STATES]
+"C:\Users\USER\Desktop\week16_sccb\default\MTU\R_PG_Timer_MTU_U0_C2.h" -8 -31 1068 546 1 5 
+"C:\Users\USER\Desktop\week16_sccb\default\RIIC\R_PG_I2C_C0.h" 52 52 864 351 0 3 
+"C:\Users\USER\Desktop\week16_sccb\week16_sccb\resetprg.c" 0 0 1656 724 0 4 
+"C:\Users\USER\Desktop\week16_sccb\week16_sccb\setup.c" 78 78 829 331 0 2 
+"C:\Users\USER\Desktop\week16_sccb\week16_sccb\setup.h" 52 52 829 331 0 1 
+"C:\Users\USER\Desktop\week16_sccb\week16_sccb\week16_sccb.c" 0 0 1692 724 0 0 
+[LOADED_PROJECTS]
+"week16_sccb" 
+[END]

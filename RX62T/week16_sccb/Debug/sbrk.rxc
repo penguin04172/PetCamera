@@ -1,0 +1,7 @@
+-cpu=rx600
+-lang=c
+-include="C:\Users\USER\Desktop\week16_sccb\default","C:\Users\USER\Desktop\week16_sccb\default\i_src"
+-output=obj="C:\Users\USER\Desktop\week16_sccb\week16_sccb\Debug\sbrk.obj"
+-debug
+"C:\Users\USER\Desktop\week16_sccb\week16_sccb\sbrk.c"
+-nologo
